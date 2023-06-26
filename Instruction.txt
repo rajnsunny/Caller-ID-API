@@ -1,0 +1,14 @@
+### Dependencies ###
+    All Dependencies are available in the file 'requirement.txt'
+
+    command to download: pip install -r requirements.txt
+
+    First you need  to create a virtual Environment 
+        ## Steps to Setup Python Environment 
+	        1> python -m venv <env_name>
+	        2> <env_name>/Scripts/Activate.ps1
+
+    all apis will work fine with the Django Admins.
+
+    Dirst create Super USer with `Py manage.py createsuperuser`
+
